@@ -1,0 +1,7 @@
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\bin\Debug\Man+student.exe.config
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\bin\Debug\Man+student.exe
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\bin\Debug\Man+student.pdb
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\obj\Debug\Man+student.csprojResolveAssemblyReference.cache
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\obj\Debug\Man+student.csproj.CoreCompileInputs.cache
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\obj\Debug\Man+student.exe
+C:\Users\ulyanovad\source\repos\Man+student\Man+student\obj\Debug\Man+student.pdb
