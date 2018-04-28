@@ -1,0 +1,19 @@
+c:\users\jddemon\documents\visual studio 2015\Projects\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe.config
+c:\users\jddemon\documents\visual studio 2015\Projects\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe
+c:\users\jddemon\documents\visual studio 2015\Projects\Incapsulation\Incapsulation\bin\Debug\Incapsulation.pdb
+c:\users\jddemon\documents\visual studio 2015\Projects\Incapsulation\Incapsulation\obj\Debug\Incapsulation.csprojResolveAssemblyReference.cache
+c:\users\jddemon\documents\visual studio 2015\Projects\Incapsulation\Incapsulation\obj\Debug\Incapsulation.exe
+c:\users\jddemon\documents\visual studio 2015\Projects\Incapsulation\Incapsulation\obj\Debug\Incapsulation.pdb
+C:\Users\JDDemon\Desktop\Incapsulation\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe.config
+C:\Users\JDDemon\Desktop\Incapsulation\Incapsulation\Incapsulation\obj\Debug\Incapsulation.exe
+C:\Users\JDDemon\Desktop\Incapsulation\Incapsulation\Incapsulation\obj\Debug\Incapsulation.pdb
+C:\Users\JDDemon\Desktop\Incapsulation\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe
+C:\Users\JDDemon\Desktop\Incapsulation\Incapsulation\Incapsulation\bin\Debug\Incapsulation.pdb
+C:\Users\JDDemon\Desktop\Incapsulation\Incapsulation\Incapsulation\obj\Debug\Incapsulation.csprojResolveAssemblyReference.cache
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\obj\Debug\Incapsulation.csprojResolveAssemblyReference.cache
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\obj\Debug\Incapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\obj\Debug\Incapsulation.exe
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\obj\Debug\Incapsulation.pdb
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe.config
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\bin\Debug\Incapsulation.exe
+C:\Users\ulyanovad\Desktop\Incapsulation (1)\Incapsulation\Incapsulation\bin\Debug\Incapsulation.pdb
