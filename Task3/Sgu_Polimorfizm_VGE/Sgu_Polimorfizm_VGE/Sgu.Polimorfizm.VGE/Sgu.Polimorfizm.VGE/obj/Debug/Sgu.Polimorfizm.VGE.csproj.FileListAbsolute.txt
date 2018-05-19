@@ -1,0 +1,22 @@
+c:\users\jddemon\documents\visual studio 2015\Projects\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe.config
+c:\users\jddemon\documents\visual studio 2015\Projects\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.csprojResolveAssemblyReference.cache
+c:\users\jddemon\documents\visual studio 2015\Projects\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe
+c:\users\jddemon\documents\visual studio 2015\Projects\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.pdb
+c:\users\jddemon\documents\visual studio 2015\Projects\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.exe
+c:\users\jddemon\documents\visual studio 2015\Projects\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.pdb
+C:\Users\JDDemon\Desktop\Proga_epam\c#\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe.config
+C:\Users\JDDemon\Desktop\Proga_epam\c#\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.exe
+C:\Users\JDDemon\Desktop\Proga_epam\c#\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.pdb
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.csprojResolveAssemblyReference.cache
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.csproj.CoreCompileInputs.cache
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.exe
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.pdb
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe.config
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe
+C:\Users\ulyanovad\Downloads\Task3\Task3\Task3_a\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.pdb
+C:\Users\JDDemon\Desktop\Sgu_Polimorfizm_VGE\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe.config
+C:\Users\JDDemon\Desktop\Sgu_Polimorfizm_VGE\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.exe
+C:\Users\JDDemon\Desktop\Sgu_Polimorfizm_VGE\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.pdb
+C:\Users\JDDemon\Desktop\Sgu_Polimorfizm_VGE\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.exe
+C:\Users\JDDemon\Desktop\Sgu_Polimorfizm_VGE\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\bin\Debug\Sgu.Polimorfizm.VGE.pdb
+C:\Users\JDDemon\Desktop\Sgu_Polimorfizm_VGE\Sgu.Polimorfizm.VGE\Sgu.Polimorfizm.VGE\obj\Debug\Sgu.Polimorfizm.VGE.csprojResolveAssemblyReference.cache

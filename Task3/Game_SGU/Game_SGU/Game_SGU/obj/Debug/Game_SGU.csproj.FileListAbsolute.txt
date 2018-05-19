@@ -1,0 +1,13 @@
+c:\users\jddemon\documents\visual studio 2015\Projects\Game_SGU\Game_SGU\bin\Debug\Game_SGU.exe.config
+c:\users\jddemon\documents\visual studio 2015\Projects\Game_SGU\Game_SGU\obj\Debug\Game_SGU.csprojResolveAssemblyReference.cache
+c:\users\jddemon\documents\visual studio 2015\Projects\Game_SGU\Game_SGU\bin\Debug\Game_SGU.exe
+c:\users\jddemon\documents\visual studio 2015\Projects\Game_SGU\Game_SGU\bin\Debug\Game_SGU.pdb
+c:\users\jddemon\documents\visual studio 2015\Projects\Game_SGU\Game_SGU\obj\Debug\Game_SGU.exe
+c:\users\jddemon\documents\visual studio 2015\Projects\Game_SGU\Game_SGU\obj\Debug\Game_SGU.pdb
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\bin\Debug\Game_SGU.exe.config
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\bin\Debug\Game_SGU.exe
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\bin\Debug\Game_SGU.pdb
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\obj\Debug\Game_SGU.csprojResolveAssemblyReference.cache
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\obj\Debug\Game_SGU.csproj.CoreCompileInputs.cache
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\obj\Debug\Game_SGU.exe
+C:\Users\ulyanovad\Desktop\Game_SGU\Game_SGU\Game_SGU\obj\Debug\Game_SGU.pdb
